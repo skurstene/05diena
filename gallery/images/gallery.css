@@ -23,12 +23,11 @@ header {
 .sostines{
     display: flex;
     flex-wrap: wrap;
-    
 }
 
 main {
     height: 80vh;
-    padding-top: 28px;
+    padding-top: 25px;
     font-family: 'Roboto', sans-serif;
     gap: 25px;
     font-size: 25px;
